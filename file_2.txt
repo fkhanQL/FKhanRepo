@@ -1,3 +1,4 @@
 This file will
 be added to the master
+Inserting one line of text
  
